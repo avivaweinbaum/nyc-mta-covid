@@ -1,4 +1,4 @@
-,Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Tests Performed,Cumulative Number of Tests Performed
+,date,county,new cases,total cases,new tests,total tests
 2,04/08/2020,Bronx,1166,17792,2348,34277
 23,04/08/2020,Kings,1312,23394,2565,45026
 30,04/08/2020,New York,602,12106,1424,29083
